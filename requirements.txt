@@ -1,0 +1,15 @@
+# Data manipulation and analysis
+pandas>=1.0.0
+
+# Numerical computations
+numpy>=1.16.0
+
+# Plotting and visualizations
+matplotlib>=3.1.0
+seaborn>=0.10.0
+
+# Machine learning library for model training and evaluation
+scikit-learn>=0.22.0
+
+# Jupyter Notebook environment for interactive development
+notebook>=6.0.0
